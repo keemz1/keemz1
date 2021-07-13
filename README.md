@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keemz1
+- 👋 Hi, I’m Akeem
 - 👀 I’m interested in web programming, movies, poetry and video editing
 - 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on any web programming project that involves REACT, CSS and HTML
