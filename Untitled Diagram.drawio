@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T03:43:45.012Z" agent="5.0 (Windows)" etag="F2Kpjry7frexd2FYbWnr" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-26T04:33:58.953Z" agent="5.0 (Windows)" etag="nxWg7ZPjiED-Fg_zN982" version="15.2.9" type="github">
   <diagram id="oARoW2ozjGi8G3ESF0JC" name="Page-1">
     <mxGraphModel dx="1038" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,10 +76,10 @@
         <mxCell id="qIm7GC5KWyZwUsV8t1Zg-33" value="&lt;div&gt;Set timeout timer to 10 minutes&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="105" y="-625" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qIm7GC5KWyZwUsV8t1Zg-38" value="&lt;h1&gt;Wabblee&lt;/h1&gt;&lt;p&gt;Player that is chosen to distort/change their voice&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="qIm7GC5KWyZwUsV8t1Zg-38" value="&lt;h1&gt;Wabbler&lt;/h1&gt;&lt;p&gt;Player that is chosen to distort/change their voice&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="-990" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qIm7GC5KWyZwUsV8t1Zg-39" value="&lt;h1&gt;Wabbler&lt;/h1&gt;Players that try to figure out the word/s that is/are said" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="qIm7GC5KWyZwUsV8t1Zg-39" value="&lt;h1&gt;Wabblee&lt;/h1&gt;Players that try to figure out the word/s that is/are said" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="-890" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qIm7GC5KWyZwUsV8t1Zg-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-41" target="DAGfyyY_b1tvWKQAuysj-1" edge="1">
@@ -99,13 +99,13 @@
         <mxCell id="qIm7GC5KWyZwUsV8t1Zg-46" value="Is timer up?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="120" y="-750" width="120" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-51" target="qIm7GC5KWyZwUsV8t1Zg-60">
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-51" target="qIm7GC5KWyZwUsV8t1Zg-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIm7GC5KWyZwUsV8t1Zg-51" value="Wabblers have to manipulate settings to guess Wabblees distortion " style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="312.5" y="-220" width="167.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qIm7GC5KWyZwUsV8t1Zg-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#00CC00;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-52" edge="1" target="DAGfyyY_b1tvWKQAuysj-10">
+        <mxCell id="qIm7GC5KWyZwUsV8t1Zg-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#00CC00;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-52" target="DAGfyyY_b1tvWKQAuysj-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="828" y="-10" as="targetPoint" />
             <Array as="points">
@@ -121,12 +121,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qIm7GC5KWyZwUsV8t1Zg-56" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-52" target="qIm7GC5KWyZwUsV8t1Zg-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="675" y="-230" />
+              <mxPoint x="395" y="-230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qIm7GC5KWyZwUsV8t1Zg-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CCCC;" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-52" target="qIm7GC5KWyZwUsV8t1Zg-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-3" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qIm7GC5KWyZwUsV8t1Zg-61">
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-3" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qIm7GC5KWyZwUsV8t1Zg-61" vertex="1" connectable="0">
           <mxGeometry x="0.2485" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -134,45 +139,45 @@
         <mxCell id="qIm7GC5KWyZwUsV8t1Zg-52" value="Has timer ended or did player submit distortion?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="590" y="-520" width="170" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=#9933FF;" edge="1" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-60" target="qIm7GC5KWyZwUsV8t1Zg-52">
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=#9933FF;" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-60" target="qIm7GC5KWyZwUsV8t1Zg-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIm7GC5KWyZwUsV8t1Zg-60" value="Set Timer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="670" y="-160" width="145" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DAGfyyY_b1tvWKQAuysj-1" target="qIm7GC5KWyZwUsV8t1Zg-52">
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DAGfyyY_b1tvWKQAuysj-1" target="qIm7GC5KWyZwUsV8t1Zg-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-1" value="Set timer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-1" value="Set timer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="510" y="-380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-12" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00CC00;" edge="1" parent="1" source="DAGfyyY_b1tvWKQAuysj-10" target="DAGfyyY_b1tvWKQAuysj-11">
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-12" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#00CC00;" parent="1" source="DAGfyyY_b1tvWKQAuysj-10" target="79ZZHNsVedeg0y6FBrlF-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="1" source="DAGfyyY_b1tvWKQAuysj-10" target="DAGfyyY_b1tvWKQAuysj-13">
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" source="DAGfyyY_b1tvWKQAuysj-10" target="DAGfyyY_b1tvWKQAuysj-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-15" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DAGfyyY_b1tvWKQAuysj-14">
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-15" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DAGfyyY_b1tvWKQAuysj-14" vertex="1" connectable="0">
           <mxGeometry x="-0.3143" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-10" value="&lt;div&gt;Did a player&lt;/div&gt;&lt;div&gt; guess correctly?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffcd28;gradientColor=#ffa500;" vertex="1" parent="1">
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-10" value="&lt;div&gt;Did a player&lt;/div&gt;&lt;div&gt; guess correctly?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffcd28;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="665" y="-60" width="155" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" edge="1" parent="1" source="DAGfyyY_b1tvWKQAuysj-11" target="DAGfyyY_b1tvWKQAuysj-16">
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" source="DAGfyyY_b1tvWKQAuysj-11" target="DAGfyyY_b1tvWKQAuysj-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-11" value="Player wins" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="672.5" y="120" width="142.5" height="70" as="geometry" />
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-11" value="Player wins" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="540" y="230" width="142.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" edge="1" parent="1" source="DAGfyyY_b1tvWKQAuysj-13" target="DAGfyyY_b1tvWKQAuysj-16">
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" source="DAGfyyY_b1tvWKQAuysj-13" target="DAGfyyY_b1tvWKQAuysj-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-13" value="&#39;Don&#39;t worry, everyone guessed wrong&#39;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A50040;fillColor=#d80073;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-13" value="&#39;Don&#39;t worry, everyone guessed wrong&#39;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A50040;fillColor=#d80073;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="390" y="-32.5" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#9673a6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;" edge="1" parent="1" source="DAGfyyY_b1tvWKQAuysj-16" target="qIm7GC5KWyZwUsV8t1Zg-17">
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#9673a6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;" parent="1" source="DAGfyyY_b1tvWKQAuysj-16" target="qIm7GC5KWyZwUsV8t1Zg-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="-110" as="targetPoint" />
             <Array as="points">
@@ -182,8 +187,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DAGfyyY_b1tvWKQAuysj-16" value="Game Ends" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;" vertex="1" parent="1">
+        <mxCell id="DAGfyyY_b1tvWKQAuysj-16" value="Game Ends" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;" parent="1" vertex="1">
           <mxGeometry x="405" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="79ZZHNsVedeg0y6FBrlF-3" target="DAGfyyY_b1tvWKQAuysj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-3" value="Is there a tie?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="740" y="110" width="150" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-5" value="The player who submitted the answer the fastest win" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
