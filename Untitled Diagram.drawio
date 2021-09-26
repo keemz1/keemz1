@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T04:33:58.953Z" agent="5.0 (Windows)" etag="nxWg7ZPjiED-Fg_zN982" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-26T04:57:38.050Z" agent="5.0 (Windows)" etag="Qm8w7DjLhfB9yhmj-GA5" version="15.2.9" type="github">
   <diagram id="oARoW2ozjGi8G3ESF0JC" name="Page-1">
-    <mxGraphModel dx="1038" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,10 +33,10 @@
         <mxCell id="qIm7GC5KWyZwUsV8t1Zg-7" value="Please enter a name/code to continue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="575" y="-740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qIm7GC5KWyZwUsV8t1Zg-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-14" target="qIm7GC5KWyZwUsV8t1Zg-41" edge="1">
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9933FF;" edge="1" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-14" target="79ZZHNsVedeg0y6FBrlF-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIm7GC5KWyZwUsV8t1Zg-14" value="Player is chosen at random to be the wabblee" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="qIm7GC5KWyZwUsV8t1Zg-14" value="Player is chosen at random to be the wabbler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="312.5" y="-420" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qIm7GC5KWyZwUsV8t1Zg-15" value="&lt;h1&gt;Wabble&lt;/h1&gt;&lt;p&gt;A game where you could communicate and your teammate would have to guess what you communicated.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -59,7 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qIm7GC5KWyZwUsV8t1Zg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#cdeb8b;strokeColor=#66FF66;" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-30" target="qIm7GC5KWyZwUsV8t1Zg-14" edge="1">
+        <mxCell id="qIm7GC5KWyZwUsV8t1Zg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#00CC00;" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-30" target="qIm7GC5KWyZwUsV8t1Zg-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIm7GC5KWyZwUsV8t1Zg-44" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qIm7GC5KWyZwUsV8t1Zg-37" vertex="1" connectable="0">
@@ -102,7 +102,7 @@
         <mxCell id="DAGfyyY_b1tvWKQAuysj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-51" target="qIm7GC5KWyZwUsV8t1Zg-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIm7GC5KWyZwUsV8t1Zg-51" value="Wabblers have to manipulate settings to guess Wabblees distortion " style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="qIm7GC5KWyZwUsV8t1Zg-51" value="Wabblees have to manipulate settings to guess Wabblees distortion " style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="312.5" y="-220" width="167.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qIm7GC5KWyZwUsV8t1Zg-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#00CC00;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qIm7GC5KWyZwUsV8t1Zg-52" target="DAGfyyY_b1tvWKQAuysj-10" edge="1">
@@ -190,14 +190,49 @@
         <mxCell id="DAGfyyY_b1tvWKQAuysj-16" value="Game Ends" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;" parent="1" vertex="1">
           <mxGeometry x="405" y="125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="79ZZHNsVedeg0y6FBrlF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="79ZZHNsVedeg0y6FBrlF-3" target="DAGfyyY_b1tvWKQAuysj-11">
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#007FFF;" edge="1" parent="1" source="79ZZHNsVedeg0y6FBrlF-3" target="DAGfyyY_b1tvWKQAuysj-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-16" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79ZZHNsVedeg0y6FBrlF-4">
+          <mxGeometry x="-0.2656" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00CC00;" edge="1" parent="1" source="79ZZHNsVedeg0y6FBrlF-3" target="79ZZHNsVedeg0y6FBrlF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-17" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79ZZHNsVedeg0y6FBrlF-7">
+          <mxGeometry x="0.0105" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="79ZZHNsVedeg0y6FBrlF-3" value="Is there a tie?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="740" y="110" width="150" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="79ZZHNsVedeg0y6FBrlF-5" value="The player who submitted the answer the fastest win" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="79ZZHNsVedeg0y6FBrlF-5" target="DAGfyyY_b1tvWKQAuysj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-5" value="The player who submitted the answer the fastest win" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="930" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CC00;" edge="1" parent="1" source="79ZZHNsVedeg0y6FBrlF-9" target="qIm7GC5KWyZwUsV8t1Zg-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-14" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79ZZHNsVedeg0y6FBrlF-13">
+          <mxGeometry x="-0.4703" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="79ZZHNsVedeg0y6FBrlF-9" target="qIm7GC5KWyZwUsV8t1Zg-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-18" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79ZZHNsVedeg0y6FBrlF-15">
+          <mxGeometry x="0.2364" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79ZZHNsVedeg0y6FBrlF-9" value="Does player accept to be Wabbler?" style="rhombus;whiteSpace=wrap;html=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-370" width="160" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
